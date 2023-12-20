@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\AddEditTripGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\AddLimousineGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\BookingAddGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\BookingDetailGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\BookingGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\LimousineGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\LoginGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\MainGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\RouteGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\TripGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
